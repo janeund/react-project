@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header style={{color: '#fff'}}>hello</header>
+    <header>hello</header>
   )
 }
 
